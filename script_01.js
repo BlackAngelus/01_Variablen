@@ -27,9 +27,15 @@
 // familyName = prompt("Bitte Nachnamen eingeben");
 // console.log(firstName + " " + familyName);
 
-let test;
-test ="Hi"
-test = 2;
-test = true;
-console.log("Datentyp: " + typeof test);
-console.log("Inhalt: " + test);
+// JS ist ein untypisierte Sprache! | untyped
+
+// let test;
+// test ="Hi"
+// test = 2;
+// test = true;
+// console.log("Datentyp: " + typeof test);
+// console.log("Inhalt: " + test);
+
+const test;
+test = "hi";
+console.log("inhalt: " + test);
