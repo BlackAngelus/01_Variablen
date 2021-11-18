@@ -66,9 +66,9 @@
 // Deklaration
 let ageJohn, ageMark;
 let birthYearJohn, birthYearMark;
+
 let date = new Date ();
-console.log(date);
-console.log(date.getFullYear())
+let year = date.getFullYear();
 
 // Wertzuweisung
 ageJohn = 25;
