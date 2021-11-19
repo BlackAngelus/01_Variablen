@@ -81,3 +81,5 @@ birthYearMark = date.getFullYear() - ageMark;
 // Ausgabe
 console.log("birthYearJohn: " + birthYearJohn);
 console.log("birthYearMark: " + birthYearMark);
+
+test
